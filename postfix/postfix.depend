@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1548834722 source:c:\users\ruchika\desktop\ds lab\postfix\main.c
+	<stdio.h>
+	<stdlib.h>
+
